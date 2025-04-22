@@ -25,6 +25,9 @@
 .vscode/
 *.code-workspace
 
+# Idea specific files
+.idea/
+
 # CMake build directory
 build/
 cmake-build-*/
